@@ -26,7 +26,7 @@ The boundary supervision helps the network learn sharper object contours, result
 - Cosine Annealing Learning Rate Scheduler
 - Automatic checkpoint saving
 - Batch inference on unseen test images
-- Submission-ready mask generation
+
 
 ---
 
