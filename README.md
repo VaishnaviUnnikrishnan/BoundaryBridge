@@ -177,6 +177,8 @@ BoundaryEdge improves segmentation quality by leveraging explicit boundary super
 <img width="412" height="130" alt="image" src="https://github.com/user-attachments/assets/48d9fb9d-0b94-4ff9-b6ae-0919ff20e27a" />
 <img width="397" height="307" alt="image" src="https://github.com/user-attachments/assets/3d22217b-c7ac-4a32-bf83-d68baadceea7" />
 <img width="396" height="303" alt="image" src="https://github.com/user-attachments/assets/21719232-1806-47d4-886f-6379bc255927" />
+<img width="393" height="307" alt="image" src="https://github.com/user-attachments/assets/b21444b4-263d-4f2f-bec1-f4cf8b7d4f85" />
+
 
 ---
 
